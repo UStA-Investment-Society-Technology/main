@@ -13,12 +13,12 @@ within the first two sections there will be:
     - Primary part of the educational material 
     - Contains detailed notes to help follow the code
     - Examples of how each new piece of code learnt can be applied.
-- sections_summary.md:
+- a `sections_summary.md`:
     - Individual section summary for each release of content.
-- Python example script:
+- Python example scripts (junior analyst):
     - A complete working script which shows how code can be deployed.
     - Fully annotated and conforms to [PEP 8 styling](https://peps.python.org/pep-0008/).
-- environment.yml file (sector quant analyst only):
+- a `environment.yml` file (sector quant analyst only):
     - A conda environment which helps to setup mahcine correctly to run scripts
     - See `Welcome_Document.pdf`
 # Setup and Introduction #
