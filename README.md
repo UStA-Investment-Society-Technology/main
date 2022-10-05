@@ -13,7 +13,7 @@ within the first two sections there will be:
     - Primary part of the educational material 
     - Contains detailed notes to help follow the code
     - Examples of how each new piece of code learnt can be applied.
-- a `sections_summary.md`:
+- a `section_summary.md`:
     - Individual section summary for each release of content.
 - Python example scripts (junior analyst):
     - A complete working script which shows how code can be deployed.
@@ -23,5 +23,5 @@ within the first two sections there will be:
     - See `Welcome_Document.pdf`
 # Setup and Introduction #
 See `Welcome_Document.pdf`
-# Author #
+### Author ###
 Created and maintained by John Belcher-Heath
