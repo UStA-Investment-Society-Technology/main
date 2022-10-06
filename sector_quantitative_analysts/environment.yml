@@ -1,0 +1,11 @@
+name: invest_soc
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
+  - yfinance
+  - jupyter
+  - scikit-learn
+  - bs4
+prefix: /home/johnbh/miniconda3/envs/invest_soc
