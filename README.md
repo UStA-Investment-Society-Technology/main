@@ -20,8 +20,8 @@ within the first two sections there will be:
     - Fully annotated and conforms to [PEP 8 styling](https://peps.python.org/pep-0008/).
 - a `environment.yml` file (sector quant analyst only):
     - A conda environment which helps to setup mahcine correctly to run scripts
-    - See `Welcome_Document.pdf`
+    - See `Investment_society_technology_document1.pdf`
 # Setup and Introduction #
-See `Welcome_Document.pdf`
+See `Investment_society_technology_document1.pdf`
 ### Author ###
 Created and maintained by John Belcher-Heath
