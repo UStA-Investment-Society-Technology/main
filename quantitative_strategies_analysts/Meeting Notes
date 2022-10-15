@@ -1,0 +1,14 @@
+// Meeting 1 Notes: 14th October //
+1. Introduction to team goals and structure (refer to introductory documentation)
+2. Brainstormed the following project ideas:
+-> Portfolio Optimization (Mean-variance, risk-parity, etc.)
+-> Quantitative Risk Management (volatility estimation/forecasting, VaR, Expected shortfall, Extreme Value Distributions)
+-> Advanced Technical Stock Analysis + Analysis automation (SMA, Bollinger Bands, 
+-> Quantitative trading strategies
+-> Machine learning methods (NLP/Sentiment Analysis, Deep simulation, calibration, portfolio optimization, etc...)
+-> Frontend: Plotly/Bash
+
+
+For next session (after ILW): 
+--> Get comfortable using Git/Github + refresh numpy, pandas and yfinance knowledge (refer to sector quant analyst material)
+--> Choose project
