@@ -16,6 +16,6 @@ within the first two sections there will be:
     - A complete working script which shows how code can be deployed.
     - Fully annotated and conforms to [PEP 8 styling](https://peps.python.org/pep-0008/).
 # Setup and Introduction #
-See `Investment_society_technology_document1.pdf`
+See the first pdf document
 ### Author ###
 Created and maintained by John Belcher-Heath
